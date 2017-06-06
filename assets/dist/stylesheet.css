@@ -1,0 +1,58 @@
+/*------------------------------------*\
+    $HEADER
+\*------------------------------------*/
+
+header {
+    padding: 8px;    
+}
+header.sticky{
+    background-color: #ED3751;
+}
+
+/*------------------------------------*\
+    $lOGO-HEADER
+\*------------------------------------*/
+
+.logo__title {
+    color: #fff;
+    font-size: 30px;
+    vertical-align: middle;
+}
+
+/*------------------------------------*\
+    $BANNER
+\*------------------------------------*/
+.high_light {
+    background: #f7617a;
+}
+.parallax-content .sub_content {
+    background: rgba(0,0,0,0.4);
+}
+/*------------------------------------*\
+    $btn
+\*------------------------------------*/
+.btn_1{
+    background: #f7617a!important;    
+}
+/*------------------------------------*\
+    $COL
+\*------------------------------------*/
+.col-centered{
+    float: none;
+    display: inline-block;
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+#preloader{
+    background-color: #ED3751;
+}
+/*------------------------------------*\
+    $high_light
+\*------------------------------------*/
+.high_light a:hover {
+    background: #fff;
+    color: #f7617a;
+    border: 2px solid #f7617a;
+}
